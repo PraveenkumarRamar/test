@@ -1,6 +1,8 @@
 
 var div=document.createElement("div");
 div.setAttribute("id", "main");
+div.style.fontSize="10em"
+div.style.textAlign="center"
 
 var span=document.createElement("span")
 
